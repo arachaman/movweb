@@ -1,0 +1,45 @@
+.myBg{
+    height: 100vh;
+    background: url("../assets/images/bg/main.jpg");
+    background-size: cover;
+}
+
+.intro{
+    height: 50%;
+}
+
+.title{
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 1;
+    text-shadow: 3px 3px black;
+    letter-spacing: 4px;
+}
+
+.trending{
+    height: auto;
+    background: url("../assets/images/bg/img3.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.hero{
+    height: auto;
+    background: url("../assets/images/bg/img3.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.movWrapper{
+
+}
+
+.movImg{
+    height: auto;
+    margin: 5px;
+    padding: 3px ;
+}
+
+.images{
+    height: 570px;
+}
